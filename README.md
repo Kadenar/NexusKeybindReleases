@@ -13,6 +13,6 @@ Profiles are complete GW2 imports, not merged sets of overrides. Automatic switc
 
 ## Installation
 
-When a release becomes available, close GW2 and copy `NexusKeybinds.dll` into your game's `addons` folder, then enable it in Nexus. Settings are under **Nexus > Options > Nexus Keybinds**. Export your current controls through GW2 before testing other profiles.
+Download [NexusKeybinds.dll](https://github.com/Kadenar/NexusKeybindReleases/releases/latest/download/NexusKeybinds.dll). Close GW2 and copy it into your game's `addons` folder, then enable it in Nexus. Settings are under **Nexus > Options > Nexus Keybinds**. Export your current controls through GW2 before testing other profiles.
 
 Third-party notices are included in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
