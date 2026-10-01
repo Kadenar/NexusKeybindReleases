@@ -9,7 +9,7 @@ A Guild Wars 2 [Nexus](https://raidcore.gg/Nexus) addon for automatically switch
 - Choose exported XML files using an in-game file picker.
 - A missing or invalid override falls back to the mode default; if that also fails, existing bindings remain unchanged.
 
-Profiles are complete GW2 imports, not merged sets of overrides. Click **Save changes** to apply your profiles. The enabled addon then switches between saved profiles automatically.
+Profiles are complete GW2 imports, not merged sets of overrides. Click **Save changes** to apply your profiles. The enabled addon then switches between saved profiles automatically. Use **Reload** after external XML edits to re-import the current saved profile.
 
 ## Installation
 
