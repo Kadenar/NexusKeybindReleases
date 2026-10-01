@@ -2,6 +2,8 @@
 
 A Guild Wars 2 [Nexus](https://raidcore.gg/Nexus) addon for automatically switching exported XML keybind profiles when your profession, elite specialization, or game mode changes. Uses an in-game ImGui settings window; arcdps is not required.
 
+![Nexus Keybinds settings showing profile overrides, Save changes, and Reload](assets/nexus-keybinds.png)
+
 ## Features
 
 - Separate default profiles for PvE and PvP/WvW.
